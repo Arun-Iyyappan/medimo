@@ -1,0 +1,1 @@
+streamlit run "C:\Mini project\Multiple Disease Prediction System\MediMo.py"
